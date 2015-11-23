@@ -1,0 +1,2 @@
+1. Removed database using drop database db_name;
+2. Verified using show databases

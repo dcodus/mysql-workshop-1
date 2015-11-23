@@ -1,0 +1,4 @@
+1. Created table Account using create table Account (name char(20));
+A table needs a minimum of one column, a colum was added
+2. All other tables were created in the same way.
+

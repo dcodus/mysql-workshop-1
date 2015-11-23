@@ -1,0 +1,6 @@
+1. Sow all databases using show databases;
+2. Enter decode database using use database decode;
+3. Show tables using show tables;
+4. Remove table using drop table Test;
+5. Verify using show tables;
+

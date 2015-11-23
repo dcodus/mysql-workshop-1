@@ -1,0 +1,4 @@
+1. Sow databases using show databases;
+2. Use decode database using use decode;
+3. Show tables using show tables;
+

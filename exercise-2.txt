@@ -1,0 +1,2 @@
+1. Created databases using create database db_name;
+2. Verified result using show databases;
